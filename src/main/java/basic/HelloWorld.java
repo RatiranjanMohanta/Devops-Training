@@ -7,5 +7,8 @@ public class HelloWorld {
 		System.out.println("Hellow world");
 
 	}
+	public void m1() {
+		System.err.println("I am inside m1");
+	}
 
 }
